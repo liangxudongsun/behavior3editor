@@ -22,9 +22,9 @@
     "test": "vitest run"
   },
   "bugs": {
-    "url": "https://github.com/zhandouxiaojiji/behavior3editor/issues"
+    "url": "https://github.com/xcoding1024/behavior3editor/issues"
   },
-  "homepage": "https://github.com/zhandouxiaojiji/behavior3editor#readme",
+  "homepage": "https://github.com/xcoding1024/behavior3editor#readme",
   "dependencies": {
     "@ant-design/icons": "^5.4.0",
     "@antv/g6": "^5.0.45",
