@@ -83,7 +83,7 @@ export interface NodeDef {
 }
 ```
 
-节点定义配置在项目创建的时候会自动生成一个配置，参照[sample/node-config.b3-setting](sample/node-config.b3-setting)，这是个 json 的配置文件。编辑器不提供节点定义的编辑，强烈建议节点定义文件由代码生成 (参照示例项目[behavior3lua](https://github.com/zhandouxiaojiji/behavior3lua))。
+节点定义配置在项目创建的时候会自动生成一个配置，参照[sample/node-config.b3-setting](sample/node-config.b3-setting)，这是个 json 的配置文件。编辑器不提供节点定义的编辑，强烈建议节点定义文件由代码生成 (参照示例项目[behavior3lua](https://github.com/xcoding1024/behavior3lua))。
 
 ## 编译与构建
 
@@ -102,7 +102,7 @@ npm run build # 编译可执行文件
 
 ## 示例行为树框架
 
-- lua 版本 [behavior3lua](https://github.com/zhandouxiaojiji/behavior3lua)
+- lua 版本 [behavior3lua](https://github.com/xcoding1024/behavior3lua)
 - js/ts 版本 [behavior3-ts](https://github.com/codetypess/behavior3-ts)。
 
 ## About

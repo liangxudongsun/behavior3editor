@@ -412,7 +412,7 @@ export const Menu: FC<LayoutProps> = () => {
             id: "menu.help.about",
             label: t("reportIssue"),
             click: () => {
-              window.open("https://github.com/zhandouxiaojiji/behavior3editor");
+              window.open("https://github.com/xcoding1024/behavior3editor");
             },
           },
         ],
